@@ -1,4 +1,4 @@
-module protos
+module github.com/dmitry-muffin/protos
 
 go 1.24.0
 
